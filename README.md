@@ -88,6 +88,8 @@ The pipeline generates:
 
 - `hourly_kpi_anomaly_output.csv`
 - `anomaly_summary.csv`
+<img width="1306" height="547" alt="PRB_Utilization_output" src="https://github.com/user-attachments/assets/a513db99-82e6-4766-9a45-16742c22c030" />
+<img width="1315" height="547" alt="RACH_SR" src="https://github.com/user-attachments/assets/7f517126-9176-4dc6-aafd-6ffa0971848b" />
 
 ## How to Run
 
